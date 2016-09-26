@@ -33,6 +33,6 @@ startX = 0;
  endX = 150;
  startY = 150;
  endY = 0;
- clear();
+
 
 }
